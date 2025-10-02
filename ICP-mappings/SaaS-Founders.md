@@ -1,0 +1,18 @@
+- **ICP ID:** SaaS_Founder_Bootstrapped
+- ​**Role:** Founder/CEO of a 1-10 person SaaS company.
+- ​**Their World:** They are overwhelmed, wearing multiple hats (product, marketing, sales). Time is their most valuable asset. They are obsessed with growth metrics (MRR, churn).
+- ​**Fears & Pains:**
+    - ​Building something nobody wants.
+    - ​Wasting money on ineffective marketing.
+    - ​Getting outpaced by better-funded competitors.
+    - ​Technical debt slowing them down.
+- ​**Desires & Goals:**
+    - ​A predictable lead-generation system.
+    - ​Operational efficiency (automation).
+    - ​A product that "sells itself."
+    - ​Recognition as an expert in their niche.
+- ​**Objections & Skepticism:**
+    - ​"This sounds too complicated to implement."
+    - ​"Is this another 'magic bullet' that won't work for my specific business?"
+    - ​"What's the ROI? I can't afford to experiment."
+- ​**Language They Use:** "MRR," "LTV," "CAC," "product-market fit," "lean," "scrappy," "runway," "workflow automation."
